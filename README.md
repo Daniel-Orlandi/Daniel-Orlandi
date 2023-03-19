@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel-Orlandi
 - 👀 I’m interested in Data science and Machine learning.
-- 🌱 I’m currently learning apache Spark
+- 🌱 I’m currently learning apache Kafka 
 - 💞️ I’m looking to collaborate on data science projects
 
 <!---
